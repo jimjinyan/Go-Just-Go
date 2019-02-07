@@ -5,8 +5,8 @@ Today is Feb 7th 2019. My mother passed away about 6 years ago and my father pas
 - Python
 - Mathematics
 - Finance and economics
-- Data Analysis
+- Data Science
     - [Harvard CS109](https://github.com/jimjinyan/Go-Just-Go/projects/1)
 - Computer CS
 - Fun things what to do
-- Readings
+- Readings/Refference
