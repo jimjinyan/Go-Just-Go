@@ -4,7 +4,7 @@ Today is Feb 7th 2019. My mother passed away about 6 years ago and my father pas
 ## Content
 - Python
 - Mathematics
-    - Probability and Statistics
+    - [Probability and Statistics](https://github.com/jimjinyan/Go-Just-Go/projects/2#column-4390213)
 - Finance and economics
 - Data Science
     - [Harvard CS109](https://github.com/jimjinyan/Go-Just-Go/projects/1)
