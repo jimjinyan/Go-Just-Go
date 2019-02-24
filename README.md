@@ -5,7 +5,7 @@ Today is Feb 7th 2019. My mother passed away about 6 years ago and my father pas
 - Python
     - pandas
     - sklearn
-        -[sklearn.liner_model](https://blog.csdn.net/qq_39037910/article/details/73465982)
+        - [sklearn.liner_model](https://blog.csdn.net/qq_39037910/article/details/73465982)
 - Mathematics
     - [Probability and Statistics](https://github.com/jimjinyan/Go-Just-Go/projects/2#column-4390213)
 - Finance and economics
