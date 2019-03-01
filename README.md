@@ -13,6 +13,8 @@ Today is Feb 7th 2019. My mother passed away about 6 years ago and my father pas
 - Data Science
     - [Harvard CS109](https://github.com/jimjinyan/Go-Just-Go/projects/1)
         - [video](http://matterhorn.dce.harvard.edu/engage/ui/index.html#/2016/01/14328)
+        - [SVM Theory_1](https://blog.csdn.net/v_july_v/article/details/7624837)
+        - [SVM Theory_2](https://zhuanlan.zhihu.com/p/24638007)
     - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition. ](http://cs231n.stanford.edu/) Not start yet
 - Computer CS
 - Fun things what to do
