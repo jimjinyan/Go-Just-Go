@@ -20,7 +20,7 @@ Today is Feb 7th 2019. My mother passed away about 6 years ago and my father pas
         - [SVM Theory_3](https://zhuanlan.zhihu.com/p/52168498)
     - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition. ](http://cs231n.stanford.edu/) Not start yet
     - [cornell CS4780](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures)
-    - [Statistical forecasting](http://people.duke.edu/~rnau/411home.htm)
+    - [Statistical forecasting](https://people.duke.edu/~rnau/411home.htm)
 - Computer CS
 - Fun things what to do
 - Readings/Refference
