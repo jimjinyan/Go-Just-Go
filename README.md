@@ -22,5 +22,6 @@ Today is Feb 7th 2019. My mother passed away about 6 years ago and my father pas
     - [cornell CS4780](http://www.cs.cornell.edu/courses/cs4780/2018fa/lectures)
     - [Statistical forecasting](https://people.duke.edu/~rnau/411home.htm)
 - Computer CS
+    - [python_MIT_open_course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation/)
 - Fun things what to do
 - Readings/Refference
